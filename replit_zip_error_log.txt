@@ -1,0 +1,7 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20:v20-20231219-faac932","time":"2023-12-27T10:23:24Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2023-12-27T10:23:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodemon","time":"2023-12-27T10:23:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nodetouch","time":"2023-12-27T10:23:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nopt","time":"2023-12-27T10:23:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2023-12-27T10:23:25Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/simple-update-notifier/node_modules/.bin/semver","time":"2023-12-27T10:23:26Z"}
